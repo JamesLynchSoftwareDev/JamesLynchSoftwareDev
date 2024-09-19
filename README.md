@@ -2,6 +2,6 @@
 
 Throughout my studies, I’ve worked on small projects that range from creating guessing game programs and utilizing my expertise in object-oriented programming and modern JavaScript frameworks.
 
-I’m eager to contribute to open-source projects, collaborate with fellow developers, and continuously expand my skills in full-stack development.
+I’m eager to contribute to open-source projects, collaborate with fellow developers, and continuously expand my coding learning!
 
 Feel free to check out my projects below and connect with me! 🚀

@@ -5,3 +5,5 @@ Throughout my studies, I’ve worked on small projects that range from creating 
 I’m eager to contribute to open-source projects, collaborate with fellow developers, and continuously expand my coding learning!
 
 Feel free to check out my projects below and connect with me! 🚀
+
+Please feel free to have a look around and have a chat with me either, i am interested in finding a career in Software Development

@@ -6,4 +6,7 @@ I’m eager to contribute to open-source projects, collaborate with fellow devel
 
 Feel free to check out my projects below and connect with me! 🚀
 
-Please feel free to have a look around and have a chat with me either, i am interested in finding a career in Software Development
+Please feel free to have a look around and have a chat with me either, i am interested in finding a career in Software Development.
+
+I am also very interested in CyberSecurity and trying to learn the Linux command line and Windows Admin.
+

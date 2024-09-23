@@ -10,7 +10,7 @@ Feel free to check out my projects below and connect with me! 🚀
 
 Please feel free to have a look around and have a chat with me either, i am interested in finding a career in Software Development.
 
-I am also very interested in CyberSecurity and trying to learn the Linux command line and Windows administration and Network security.
+I am also very interested in Cyber Security and trying to learn the Linux command line and Windows administration and Network security.
 
 
 
